@@ -1,4 +1,4 @@
-# 2-body-problem
+# 2-body-problem in Processing
 
 Current version includes the following limitations:
   body 1 is stationary
