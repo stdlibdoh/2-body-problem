@@ -2,7 +2,7 @@
 
 Overview:
 
-Coded for "Introduction to Programming" module, Foundation Year in Computing, Goldsmiths.
+Coded for "Foundations of Programming" module, Foundation Year in Computing, Goldsmiths.
 Attempt to simulate the 2 body problem using the Processing Library for Java.
 
 Instructions:
